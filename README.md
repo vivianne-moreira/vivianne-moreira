@@ -34,7 +34,6 @@
 **Data & AI**
 <br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 
 **Tools & Agile**
 <br>
